@@ -1,0 +1,1 @@
+- NESP_D3_Tier3_nationalscale_reef.csv doesn't seem to have anything useful as the water level (`WATLEV` column) is full of `NaN` for the `Great Barrier Reef Marine Park`.
